@@ -1,14 +1,14 @@
 # Site Info
-title:              "The Plain"
-description:        "The Plain is a Minimalist Jekyll theme that focuses on writing matters."
+title:              "Niko Rahmadi Wiharto"
+description:        "Just Personal Blog"
 google_verify:      epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o # Put your Google Verification here
 google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
 
 # Author Info
-author_name:        "Heiswayi Nrird"
-author_email:       hnrird@gmail.com
+author_name:        "Niko Rahmadi Wiharto"
+author_email:       niko.rahmadi.w@gmail.com
 author_gravatar:    2b38b1b0e7e08b69379bd61582adf0c8 # Gravatar md5 hash
-twitter_username:   HeiswayiNrird
+twitter_username:   nikorahmadi
 
 # Site Settings
 baseurl:            "/wihart.github.io" # Base URL must end WITHOUT a slash, default: ""
